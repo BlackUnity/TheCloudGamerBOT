@@ -1,1 +1,1 @@
-worker: node TheCloudGamer.js
+worker: node bot.js
